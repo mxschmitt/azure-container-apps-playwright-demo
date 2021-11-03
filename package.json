@@ -1,0 +1,23 @@
+{
+  "name": "azure-container-apps-playwright-example",
+  "version": "1.0.0",
+  "description": "Example how you can use Playwright on Azure Container Apps",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxschmitt/azure-container-apps-playwright-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxschmitt/azure-container-apps-playwright-demo/issues"
+  },
+  "homepage": "https://github.com/mxschmitt/azure-container-apps-playwright-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "playwright": "^1.16.3"
+  }
+}
